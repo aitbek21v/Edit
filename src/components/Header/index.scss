@@ -1,0 +1,19 @@
+#header {
+  padding: 20px 0;
+
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    nav {
+      width: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      a {
+        color: #181818;
+      }
+    }
+  }
+}
